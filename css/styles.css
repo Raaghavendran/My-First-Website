@@ -1,0 +1,244 @@
+body {
+  margin: 0;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: sans-serif;
+}
+
+.frontpage {
+  background-color: #EFFFFD;
+  color: #66BFBF;
+  font-family: 'Send Flowers', cursive;
+  text-align: center;
+}
+
+.cloud1 {
+  padding-top: 50px;
+  margin-left: 40%;
+}
+
+.cloud2 {
+  display: block;
+  margin-left: 25%;
+}
+
+.mountain {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fronth1 {
+  font-size: 80px;
+}
+
+.fronth2 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+.profileh2 {
+  font-family: sans-serif;
+  color: #66BFBF;
+}
+
+.profile-img {
+  border-radius: 50%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.profile {
+  text-align: center;
+}
+
+.profileh2 {
+  margin-bottom: 50px;
+  font-size: 40px;
+  font-weight: normal;
+}
+
+.profilep {
+  margin-bottom: 50px;
+  color: #40514E;
+  font-weight: bold;
+}
+
+hr {
+  border-style: dotted;
+  margin-left: 45%;
+  margin-right: 45%;
+  border-width: 10px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-color: #66BFBF;
+}
+
+.my-skills {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.skillsh2 {
+  font-size: 40px;
+  font-weight: normal;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.web {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  float: left;
+}
+
+.hot {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  float: right;
+  margin-left: 5%;
+}
+
+.skill1-h2 {
+  margin-left: 25%;
+  font-weight: normal;
+}
+
+.skill1-p {
+  margin-left: 25%;
+  padding-bottom: 50px;
+  color: #40514E;
+  font-family: sans-serif;
+}
+
+.skill2-h2 {
+  font-weight: normal;
+}
+
+.skill2-p {
+  color: #40514E;
+  font-family: sans-serif;
+}
+
+.getintouch {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.getintouch-h2 {
+  font-weight: normal;
+  padding-bottom: 30px;
+}
+
+.getintouch-h3 {
+  font-weight: normal;
+  padding-bottom: 30px;
+}
+.lastpage {
+  background-color: #66BFBF;
+  height: 50px;
+}
+a{
+  color: #40514E;
+  text-decoration: none;
+  margin: 0 20px;
+  background-color: #66BFBF;
+  padding-top: 30px;
+  display: inline-block;
+  font-family: sans-serif;
+}
+a:hover{
+  color:white;
+}
+.twitter{
+  margin-left: 44%;
+}
+.last-p {
+  margin:0;
+  color: white;
+  text-align: center;
+  background-color: #66BFBF;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  font-family: sans-serif;
+}
+.profilep{
+  font-family: sans-serif;
+}
+.contact{
+  margin-bottom: 30px;
+  text-align: center;
+}
+.contact-a{
+  border-radius: 10%;
+  padding:15px 25px 15px 25px;
+}
+.contactme{
+  background-color: #EFFFFD;
+  font-family:sans-serif;
+}
+.contactme-h1{
+  color: #66BFBF;
+  text-align: center;
+  font-family: 'Send Flowers', cursive;
+}
+.list1{
+  position: absolute;
+  margin-left: 40%;
+  margin-top: 5%;
+  color: #66BFBF;
+  font-weight:bold;
+  line-height: 3;
+}
+.list2{
+  position: absolute;
+  margin-left: 55%;
+  margin-top: 5%;
+  color: #66BFBF;
+  line-height: 3;
+}
+.profile{
+  background-color: #EFFFFD;
+}
+.profilep{
+  color: #66BFBF;
+  font-weight: normal;
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+.contact-hr2{
+  margin-top:30%;
+  border-width: 5px;
+
+}
+.my-skills{
+  border-style: solid;
+  border-color: #66BFBF;
+}
+.skill1{
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.skill2{
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
